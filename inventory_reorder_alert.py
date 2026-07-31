@@ -92,17 +92,7 @@ def parse_row(row: dict, row_num: int, warnings: list[str]) -> dict | None:
 
 
 def classify_item(item: dict) -> dict | None:
-    """
-    Compares current_quantity against reorder_threshold.
-    Returns an enriched dict if restocking is needed, else None.
-
-    Priority tiers
-    ─────────────────────────────────────────────────────────
-    CRITICAL  qty <  threshold × CRITICAL_THRESHOLD_PCT
-    LOW       qty >= threshold × CRITICAL_THRESHOLD_PCT  AND
-              qty <  threshold
-    ─────────────────────────────────────────────────────────
-    """
+    
     qty       = item["current_quantity"]
     threshold = item["reorder_threshold"]
     healthy   = item["healthy_stock_level"]
