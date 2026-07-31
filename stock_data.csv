@@ -1,0 +1,26 @@
+item_name,current_quantity,reorder_threshold,unit,healthy_stock_level,category
+Nitrile Gloves (Box),12,50,boxes,200,Safety
+Safety Goggles,3,20,units,80,Safety
+Hard Hats,45,30,units,120,Safety
+Steel-Toe Boots,0,15,pairs,60,Safety
+Packing Tape,8,40,rolls,160,Packaging
+Bubble Wrap,2,25,rolls,100,Packaging
+Cardboard Boxes (Large),150,100,units,400,Packaging
+Cardboard Boxes (Small),500,200,units,800,Packaging
+Shipping Labels,1000,500,sheets,2000,Packaging
+Stretch Film,5,30,rolls,120,Packaging
+Forklift Batteries,1,4,units,16,Equipment
+Pallet Jacks,6,3,units,12,Equipment
+Hand Trucks,10,5,units,20,Equipment
+Barcode Scanners,2,5,units,20,Equipment
+Printer Ink Cartridges,3,10,cartridges,40,Office
+A4 Paper (Ream),25,50,reams,200,Office
+Pens (Box),0,5,boxes,20,Office
+Cleaning Spray,7,20,bottles,80,Maintenance
+Mop Heads,4,10,units,40,Maintenance
+Trash Bags (Roll),11,30,rolls,120,Maintenance
+First Aid Kits,2,8,kits,32,Safety
+Fire Extinguishers,10,10,units,40,Safety
+,50,20,units,80,Miscellaneous
+WD-40 Lubricant,,15,cans,60,Maintenance
+Zip Ties (Pack),200,100,packs,400,Packaging

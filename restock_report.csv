@@ -1,0 +1,17 @@
+item_name,category,priority,current_quantity,reorder_threshold,shortage,reorder_qty,healthy_stock_level,unit,report_generated
+Nitrile Gloves (Box),Safety,CRITICAL,12.0,50.0,38,188,200.0,boxes,2026-07-31 14:18:38
+Safety Goggles,Safety,CRITICAL,3.0,20.0,17,77,80.0,units,2026-07-31 14:18:38
+Steel-Toe Boots,Safety,CRITICAL,0.0,15.0,15,60,60.0,pairs,2026-07-31 14:18:38
+Packing Tape,Packaging,CRITICAL,8.0,40.0,32,152,160.0,rolls,2026-07-31 14:18:38
+Bubble Wrap,Packaging,CRITICAL,2.0,25.0,23,98,100.0,rolls,2026-07-31 14:18:38
+Stretch Film,Packaging,CRITICAL,5.0,30.0,25,115,120.0,rolls,2026-07-31 14:18:38
+Forklift Batteries,Equipment,LOW,1.0,4.0,3,15,16.0,units,2026-07-31 14:18:38
+Barcode Scanners,Equipment,LOW,2.0,5.0,3,18,20.0,units,2026-07-31 14:18:38
+Printer Ink Cartridges,Office,LOW,3.0,10.0,7,37,40.0,cartridges,2026-07-31 14:18:38
+A4 Paper (Ream),Office,LOW,25.0,50.0,25,175,200.0,reams,2026-07-31 14:18:38
+Pens (Box),Office,CRITICAL,0.0,5.0,5,20,20.0,boxes,2026-07-31 14:18:38
+Cleaning Spray,Maintenance,LOW,7.0,20.0,13,73,80.0,bottles,2026-07-31 14:18:38
+Mop Heads,Maintenance,LOW,4.0,10.0,6,36,40.0,units,2026-07-31 14:18:38
+Trash Bags (Roll),Maintenance,LOW,11.0,30.0,19,109,120.0,rolls,2026-07-31 14:18:38
+First Aid Kits,Safety,LOW,2.0,8.0,6,30,32.0,kits,2026-07-31 14:18:38
+WD-40 Lubricant,Maintenance,CRITICAL,0.0,15.0,15,60,60.0,cans,2026-07-31 14:18:38
